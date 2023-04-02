@@ -1,0 +1,11 @@
+{
+    "workbench.settings.useSplitJSON": true,
+    "php.debug.executablePath": "C:\\xampp\\php\\php.exe",
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Fira code',Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "php.executablePath": "C:\\xampp\\php\\php.exe",
+    "php.suggest.basic": true,
+    "php.validate.enable": true
+}
